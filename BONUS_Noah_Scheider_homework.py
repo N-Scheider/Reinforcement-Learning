@@ -9,7 +9,7 @@ Created on Sun Jan  5 13:33:12 2025
 import numpy as np
 import matplotlib.pyplot as plt
 
-from Noah_Scheider_homework_BONUS_functions import *
+from BONUS_Noah_Scheider_homework_functions import *
 
 
 # FIX random seed
